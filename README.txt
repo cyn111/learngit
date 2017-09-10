@@ -6,3 +6,5 @@ creating a new branch is quick
 creating a new branch is quick and simple
 another testing
 add some change  with fast forward
+now i am testing stash
+something is wrong

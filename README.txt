@@ -5,4 +5,4 @@ Git tracks changes of files
 creating a new branch is quick
 creating a new branch is quick and simple
 another testing
-add some change  with fast forward
+add some change  with fast forward  git is a free software
